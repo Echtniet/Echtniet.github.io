@@ -1,5 +1,11 @@
 [
 	{
+		"loc" : "Maryville",
+		"state" : "MO",
+		"zip" : 64468,
+		"phone" : "5152381640",
+		"github" : "github.com/echtniet",
+		"email" : "davelaarprogramming@gmail.com",
 		"education" : [
 			{
 				"degree" : "Bachelor of Science in Computer Science",
@@ -14,7 +20,7 @@
 			{
 				"degree" : "Associate of Arts and Science in Computer Software Development",
 				"emphasis" : "Web Development",
-				"at" : "Indian hills Community College",
+				"at" : "Indian Hills Community College",
 				"state" : "IA",
 				"city" : "Ottumwa",
 				"gpa" : 3.83,
@@ -48,6 +54,76 @@
 				"tasks" : [
 					"Wrote new reports",
 					"Maintained and updated existing reports"
+				]
+			},
+			{
+				"title" : "Web Developer",
+				"start" : "December 2017",
+				"end" : "June 2018",
+				"company" : "BetterDeals",
+				"state" : "Curacao",
+				"city" : "Willemstad",
+				"tasks" : [
+					"Developed back-end of web applications",
+					"Developed front-end of web applications",
+					"Maintained and updated web applications",
+					"Developed databases to store applications data"
+				]
+			},
+			{
+				"title" : "Mobile App Developer",
+				"start" : "March 2016",
+				"end" : "March 2017",
+				"company" : "Indian Hills Community College",
+				"state" : "IA",
+				"city" : "Ottumwa",
+				"tasks" : [
+					"Desinged app layout",
+					"Programmed app functionality",
+					"Published app on the play store"
+				]
+			}
+		],
+		"skill" : [
+			{
+				"language" : [
+					"English",
+					"Dutch",
+					"Spanish",
+					"Papiamento"
+				],
+				"technical" : [
+					"C/C++",
+					"Java",
+					"Python",
+					"COBOL",
+					"C#",
+					"Swift",
+					"SwiftUI",
+					"Flutter",
+					"NativeScript", 
+					"ReactNative",
+					"HTML5",
+					"CSS",
+					"Bootstrap",
+					"JavScript",
+					"AngularJS", 
+					"Vue.Js", 
+					"PHP",
+					"ASP.net",
+					"JSON",
+					"XML",
+					"SQL"
+				],
+				"tools" : [
+					"Data Mining",
+					"Web Mining", 
+					"Oracle", 
+					"Apache", 
+					"MySQL",
+					"Web Scripting", 
+					"MongoDB", 
+					"Git"
 				]
 			}
 		]
