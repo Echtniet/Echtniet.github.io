@@ -84,48 +84,46 @@
 				]
 			}
 		],
-		"skill" : [
-			{
-				"language" : [
-					"English",
-					"Dutch",
-					"Spanish",
-					"Papiamento"
-				],
-				"technical" : [
-					"C/C++",
-					"Java",
-					"Python",
-					"COBOL",
-					"C#",
-					"Swift",
-					"SwiftUI",
-					"Flutter",
-					"NativeScript", 
-					"ReactNative",
-					"HTML5",
-					"CSS",
-					"Bootstrap",
-					"JavScript",
-					"AngularJS", 
-					"Vue.Js", 
-					"PHP",
-					"ASP.net",
-					"JSON",
-					"XML",
-					"SQL"
-				],
-				"tools" : [
-					"Data Mining",
-					"Web Mining", 
-					"Oracle", 
-					"Apache", 
-					"MySQL",
-					"Web Scripting", 
-					"MongoDB", 
-					"Git"
-				]
-			}
+		"language" : [
+			"English",
+			"Dutch",
+			"Spanish",
+			"Papiamento"
+		],
+		"technical" : [
+			"C/C++",
+			"Java",
+			"Python",
+			"COBOL",
+			"C#",
+			"Swift",
+			"SwiftUI",
+			"Flutter",
+			"NativeScript", 
+			"ReactNative",
+			"HTML5",
+			"CSS",
+			"Bootstrap",
+			"JavScript",
+			"AngularJS", 
+			"Vue.Js", 
+			"PHP",
+			"ASP.net",
+			"JSON",
+			"XML",
+			"SQL"
+		],
+		"tools" : [
+			"Data Mining",
+			"Web Mining", 
+			"Oracle", 
+			"Apache", 
+			"MySQL",
+			"Web Scripting", 
+			"MongoDB", 
+			"Git"
 		]
+			
+		
 	}
 ] 
