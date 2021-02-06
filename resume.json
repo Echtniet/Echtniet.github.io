@@ -8,6 +8,7 @@
 		"email" : "davelaarprogramming@gmail.com",
 		"education" : [
 			{
+				"id" : 0,
 				"degree" : "Bachelor of Science in Computer Science",
 				"emphasis" : "Mobile Apps",
 				"at" : "Northwest Missouri State University",
@@ -18,6 +19,7 @@
 				"website" : "nwmissouri.edu"
 			},
 			{
+				"id" : 2,
 				"degree" : "Associate of Arts and Science in Computer Software Development",
 				"emphasis" : "Web Development",
 				"at" : "Indian Hills Community College",
@@ -30,6 +32,7 @@
 		],
 		"experience" : [
 			{
+				"id" : 0,
 				"title" : "Teacher's Assitant",
 				"start" : "January 2019",
 				"end" : "May 2021",
@@ -45,6 +48,7 @@
 				]
 			},
 			{
+				"id" : 1,
 				"title" : "Report Writer",
 				"start" : "May 2019",
 				"end" : "May 2020",
@@ -57,6 +61,7 @@
 				]
 			},
 			{
+				"id" : 2,
 				"title" : "Web Developer",
 				"start" : "December 2017",
 				"end" : "June 2018",
@@ -71,6 +76,7 @@
 				]
 			},
 			{
+				"id" : 3,
 				"title" : "Mobile App Developer",
 				"start" : "March 2016",
 				"end" : "March 2017",
@@ -123,7 +129,5 @@
 			"MongoDB", 
 			"Git"
 		]
-			
-		
 	}
 ] 
