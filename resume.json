@@ -1,0 +1,55 @@
+[
+	{
+		"education" : [
+			{
+				"degree" : "Bachelor of Science in Computer Science",
+				"emphasis" : "Mobile Apps",
+				"at" : "Northwest Missouri State University",
+				"state" : "MO",
+				"city" : "Maryville",
+				"gpa" : 3.61,
+				"graduated" : "Spring 2021",
+				"website" : "nwmissouri.edu"
+			},
+			{
+				"degree" : "Associate of Arts and Science in Computer Software Development",
+				"emphasis" : "Web Development",
+				"at" : "Indian hills Community College",
+				"state" : "IA",
+				"city" : "Ottumwa",
+				"gpa" : 3.83,
+				"graduated" : "Spring 2017",
+				"website" : "indianhills.edu"
+			}
+		],
+		"experience" : [
+			{
+				"title" : "Teacher's Assitant",
+				"start" : "January 2019",
+				"end" : "May 2021",
+				"company" : "Northwest Missouri State University",
+				"state" : "MO",
+				"city" : "Maryville",
+				"tasks" : [
+					"Assit and answer question durinf classes",
+					"Held help session to proved extra oportunities for leaning",
+					"Graded homework, assignments and exams",
+					"Served as proctor during exams",
+					"TA for programming II, Data Structures, Survey of Algorithms, and Web Mining"
+				]
+			},
+			{
+				"title" : "Report Writer",
+				"start" : "May 2019",
+				"end" : "May 2020",
+				"company" : "Northwest Missouri State University",
+				"state" : "MO",
+				"city" : "Maryville",
+				"tasks" : [
+					"Wrote new reports",
+					"Maintained and updated existing reports"
+				]
+			}
+		]
+	}
+]
